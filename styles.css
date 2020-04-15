@@ -1,0 +1,50 @@
+#idle-state{
+    width: 75%;
+    margin: 0 auto;
+}
+
+#schrikkenhtml{
+    width: 75%;
+    margin: 0 auto;
+}
+
+#wassenhtml{
+    width: 75%;
+    margin: 0 auto;
+}
+
+#slapenhtml{
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+.knoppen {
+    
+    max-height: 90px;
+    max-width: 90px;
+position: absolute;
+    
+}
+
+#knop1 {
+    z-index: 100;
+    left: 55%;
+    bottom: 66px;
+    position: absolute;
+}
+
+#knop2 {
+    z-index: 100;
+    left: 45%;
+    bottom: 50px;
+    position: absolute;
+}
+
+#knop3 {
+    z-index: 100;
+    left: 35%;
+    bottom: 50px;
+    position: absolute;
+}
+
